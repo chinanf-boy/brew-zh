@@ -35,7 +35,8 @@
 <!-- doc-templite END generated -->
 
 
-- [ ] readme
+- [x] readme
+- [ ] [docs](./src/readme.md)
 
 ### 贡献
 
@@ -53,68 +54,68 @@
 <!-- END doctoc -->
 
 
-# 自酿啤酒
+# 自酿啤酒-Homebrew
 
 [![GitHub release](https://img.shields.io/github/release/Homebrew/brew.svg)](https://github.com/Homebrew/brew/releases)
 
-特点、使用和安装说明[主页概述](https://brew.sh). 术语(例如地窖、水龙头、木桶等之间的区别)[这里解释](https://docs.brew.sh/Formula-Cookbook#homebrew-terminology).
+特性、使用和安装说明都在[主页中概述](https://brew.sh). 术语(例如`地窖-Cellar`、`水龙头-Tap`、`木桶-Cask`等之间的区别)[在这里解释](https://docs.brew.sh/Formula-Cookbook#homebrew-terminology).
 
 ## 哪些软件包可用?
 
-1.  类型`酿造搜索`一个列表.
-2.  或参观[啤酒配方](https://formulae.brew.sh)在线浏览包裹.
-3.  或使用`BREW搜索——DISC <关键词>`从命令行浏览包.
+1.  输入`brew search`,输出一个列表.
+2.  或参观[啤酒配方 formulae.brew.sh](https://formulae.brew.sh)在线浏览包.
+3.  或使用`brew search --desc <关键词>`,命令行浏览包.
 
 ## 更多文档
 
-`酿造帮助`,`人酿`或检查[我们的文档](https://docs.brew.sh/).
+`brew help`,`man brew`或检查[我们的文档](https://docs.brew.sh/).
 
 ## 故障排除
 
-首先,请运行`酿造更新`和`酿酒医生`.
+首先,请运行`brew update`和`brew doctor`.
 
-第二,阅读[核对清单](https://docs.brew.sh/Troubleshooting).
+第二,阅读[问题核对清单](https://docs.brew.sh/Troubleshooting).
 
-**如果你不读这些,我们将花更长的时间来帮助你解决问题.**
+**如果你不读这些,我们将花更长的时间来帮你解决问题.**
 
 ## 贡献
 
 [![Travis](https://img.shields.io/travis/Homebrew/brew.svg)](https://travis-ci.org/Homebrew/brew)
 [![Codecov](https://img.shields.io/codecov/c/github/Homebrew/brew.svg)](https://codecov.io/gh/Homebrew/brew)
 
-我们希望你能为自制啤酒做贡献.首先,请阅读我们的[贡献指南](CONTRIBUTING.md)和[行为守则](CODE_OF_CONDUCT.md#code-of-conduct).
+我们希望你能为 Gomebrew 做贡献.首先,请阅读我们的[贡献指南](CONTRIBUTING.md)和[行为守则](CODE_OF_CONDUCT.md#code-of-conduct).
 
-我们明确欢迎以前从未贡献过开源的人的贡献:我们都是初学者一次!我们可以帮助建立一个部分工作的拉请求,目的是使之合并.我们也积极寻求使我们的贡献者多样化,特别欢迎来自所有背景和有色人种的妇女的贡献.
+我们非常欢迎,从未贡献过开源的人的贡献: 我们都从初学者来的! 我们可以帮助建立一个部分工作的提交请求,目的是使之合并.我们也积极寻求使我们的贡献者多样化,特别欢迎来自所有背景和有色人种的妇女的贡献.
 
-贡献的良好起点是跑步`酿造审计——严格`使用一些软件包(例如`酿造审计——严格的WGET`如果你使用`wget`然后阅读警告,尝试修复它们.`酿造审计——严格`没有结果[提交拉动请求](https://docs.brew.sh/How-To-Open-a-Homebrew-Pull-Request). 如果没有使用的公式,则可以运行警告.`酿造审计——严格`没有参数使它运行在所有包上并选择一个.
+贡献的良好起点是运行`brew audit --strict`加上使用一些软件包(例如`brew audit --strict wget`,如果你使用`wget`) 然后阅读警告,尝试修复它们.直到`brew audit --strict`没有结果之后[提交拉动请求](https://docs.brew.sh/How-To-Open-a-Homebrew-Pull-Request). 如果您使用的`配方-formulae`没有警告，您可以在没有参数的情况下运行`brew audit --strict`，让它在所有包上运行并选择一个。
 
-或者,对于更实质性的东西,请查看其中的一个问题.`求援`在里面[自制/酿造](https://github.com/homebrew/brew/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)或[自制/自制核心](https://github.com/homebrew/homebrew-core/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22).
+或者,对于更实质性的东西,请查看`help wanted`其中的一个问题.在[Homebrew/brew](https://github.com/homebrew/brew/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)里面或[Homebrew/homebrew-core](https://github.com/homebrew/homebrew-core/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22).
 
 祝你好运!
 
 ## 安全性
 
-请向我们报告安全问题[哈克龙](https://hackerone.com/homebrew/).
+请向我们的[HackerOne](https://hackerone.com/homebrew/)报告安全问题.
 
 ## 你是谁?
 
-家庭酿酒的主要维护者是[迈克麦克奎德](https://github.com/mikemcquaid).
+Homebrew的主要领导者 [Mike McQuaid](https://github.com/mikemcquaid).
 
-HOBPROW项目领导委员会[迈克麦克奎德](https://github.com/mikemcquaid),[杰克特](https://github.com/jcount),[迷雾](https://github.com/mistydemeo)和[马库斯赖特](https://github.com/reitermarkus).
+Homebrew 项目委员会 [Mike McQuaid](https://github.com/mikemcquaid), [JCount](https://github.com/jcount), [Misty De Meo](https://github.com/mistydemeo) and [Markus Reiter](https://github.com/reitermarkus).
 
-自制/酿造的其他维护者[克劳蒂亚](https://github.com/claui),[米卡卡波夫夫](https://github.com/imichka),[肖恩杰克曼](https://github.com/sjackman),[朱崇宇](https://github.com/lembacon),[承诺](https://github.com/commitay),[维托尔加尔沃](https://github.com/vitorgalvao),[杰克特](https://github.com/jcount),[迷雾](https://github.com/mistydemeo),[古萨姆格利](https://github.com/GauthamGoli),[马库斯赖特](https://github.com/reitermarkus),[史提芬彼得斯](https://github.com/scpeters),[张洋洋](https://github.com/jonchang)和[威廉伍德拉夫](https://github.com/woodruffw).
+Homebrew/brew 其他现有的维护者是 [Claudia](https://github.com/claui), [Michka Popoff](https://github.com/imichka), [Shaun Jackman](https://github.com/sjackman), [Chongyu Zhu](https://github.com/lembacon), [commitay](https://github.com/commitay), [Vitor Galvao](https://github.com/vitorgalvao), [JCount](https://github.com/jcount), [Misty De Meo](https://github.com/mistydemeo), [Gautham Goli](https://github.com/GauthamGoli), [Markus Reiter](https://github.com/reitermarkus), [Steven Peters](https://github.com/scpeters), [Jonathan Chang](https://github.com/jonchang) 和 [William Woodruff](https://github.com/woodruffw).
 
-HOBREW/BREW的Linux支持(和Linuxbrew)维护者[米卡卡波夫夫](https://github.com/imichka)和[肖恩杰克曼](https://github.com/sjackman).
+Homebrew/brew's Linux 支持 (和 Linuxbrew) 维护者 是 [Michka Popoff](https://github.com/imichka) 和 [Shaun Jackman](https://github.com/sjackman).
 
-自制/自制核心的其他现有维护者[克劳蒂亚](https://github.com/claui),[米卡卡波夫夫](https://github.com/imichka),[肖恩杰克曼](https://github.com/sjackman),[朱崇宇](https://github.com/lembacon),[承诺](https://github.com/commitay),[伊扎克·毕克曼](https://github.com/zbeekman),[肖恩·莫莱纳](https://github.com/SMillerDev),[扬维尔詹宁](https://github.com/javian),[维克多萨扎克斯](https://github.com/vszakats),[FX CouDrt](https://github.com/fxcoudert),[史提芬彼得斯](https://github.com/scpeters),[杰克特](https://github.com/jcount),[迷雾](https://github.com/mistydemeo)和[汤姆肖恩詹斯](https://github.com/tschoonj).
+Homebrew/homebrew-core 的 其他当前维护者 [Claudia](https://github.com/claui), [Michka Popoff](https://github.com/imichka), [Shaun Jackman](https://github.com/sjackman), [Chongyu Zhu](https://github.com/lembacon), [commitay](https://github.com/commitay), [Izaak Beekman](https://github.com/zbeekman), [Sean Molenaar](https://github.com/SMillerDev), [Jan Viljanen](https://github.com/javian), [Viktor Szakats](https://github.com/vszakats), [FX Coudert](https://github.com/fxcoudert), [Steven Peters](https://github.com/scpeters), [JCount](https://github.com/jcount), [Misty De Meo](https://github.com/mistydemeo) and [Tom Schoonjans](https://github.com/tschoonj).
 
-具有重要贡献的前维护者包括[dominyk分蘖](https://github.com/DomT4),[蒂姆史密斯](https://github.com/tdsmith),[-方丹](https://github.com/bfontaine),[徐城](https://github.com/xu-cheng),[马丁afanasjew](https://github.com/UniqMartin),[布雷特koonce](https://github.com/asparagui),[查理sharpsteen](https://github.com/Sharpie),[杰克内格尔](https://github.com/jacknagel),[亚当范登堡](https://github.com/adamv),[安德鲁闪灵](https://github.com/apjanke),[亚历克斯邓恩](https://github.com/dunn),[neutric](https://github.com/neutric),[如果pajor](https://github.com/nijikon),[Uladzislau Shablinski](https://github.com/vladshablinsky),[艾丽莎罗斯](https://github.com/alyssais),[ilovezfs](https://github.com/ilovezfs)和自制的创造者:[马克斯·豪厄尔](https://github.com/mxcl).
+有重大贡献的前维护者包括 [Dominyk Tiller](https://github.com/DomT4), [Tim Smith](https://github.com/tdsmith), [Baptiste Fontaine](https://github.com/bfontaine), [Xu Cheng](https://github.com/xu-cheng), [Martin Afanasjew](https://github.com/UniqMartin),  [Brett Koonce](https://github.com/asparagui), [Charlie Sharpsteen](https://github.com/Sharpie), [Jack Nagel](https://github.com/jacknagel), [Adam Vandenberg](https://github.com/adamv), [Andrew Janke](https://github.com/apjanke), [Alex Dunn](https://github.com/dunn), [neutric](https://github.com/neutric), [Tomasz Pajor](https://github.com/nijikon), [Uladzislau Shablinski](https://github.com/vladshablinsky), [Alyssa Ross](https://github.com/alyssais), [ilovezfs](https://github.com/ilovezfs) 和 Homebrew 创建者: [Max Howell](https://github.com/mxcl).
 
 ## 社区
 
--   [(论坛)](https://discourse.brew.sh)
--   [FeleNoDE.NETγ机械手(IRC)](irc://irc.freenode.net/#machomebrew)
--   [@ MacHomebrew(Twitter)](https://twitter.com/MacHomebrew)
+- [discourse.brew.sh (论坛)](https://discourse.brew.sh)
+- [freenode.net\#machomebrew (IRC)](irc://irc.freenode.net/#machomebrew)
+- [@MacHomebrew (Twitter)](https://twitter.com/MacHomebrew)
 
 ## 许可证
 
@@ -122,7 +123,7 @@ HOBREW/BREW的Linux支持(和Linuxbrew)维护者[米卡卡波夫夫](https://git
 
 ## 捐赠
 
-HunBurw是一个完全由无偿志愿者运营的非盈利性项目.我们需要您的资金来支付软件,硬件和主机围绕持续集成和项目的未来改进.每一笔捐款都将花在为我们的用户更好地制作自制品上.
+Homebrew是一个完全由无偿志愿者运营的非盈利性项目.我们需要您的资金来支付软件,硬件和主机围绕持续集成和项目的未来改进.每一笔捐款都将花在为我们的用户更好地制作Homebrew上.
 
 请考虑通过Patreon定期捐款:
 
@@ -130,36 +131,38 @@ HunBurw是一个完全由无偿志愿者运营的非盈利性项目.我们需要
 
 或者,如果你宁愿一次性付款:
 
--   [用贝宝捐款](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V6ZE57MJRYC8L)
--   从美国银行捐赠美元支票:
-    -   将支票支付给"软件自由保护公司",并在"备注"字段中放置"定向捐赠:自制".支票应邮寄至:
-        -   软件自由保护公司,137蒙塔古ST STE 380布鲁克林,NY 11201美国
--   通过电汇方式捐款:联系电汇@ sfReaChan.ORG用于电汇详情.
+-   [用PayPal捐款](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V6ZE57MJRYC8L)
+- Donate by USA $ check from a USA bank:
+  - Make check payable to "Software Freedom Conservancy, Inc." and place "Directed donation: Homebrew" in the memo field.  Checks should then be mailed to:
+    - Software Freedom Conservancy, Inc.
+      137 Montague ST  STE 380
+      BROOKLYN, NY 11201             USA
+- Donate by wire transfer: contact accounting@sfconservancy.org for wire transfer details.
 
-自制是一个成员[自由软件管理机构](https://sfconservancy.org)这为我们提供了一种可以免税的、自制的专项捐款的能力.[许多其他服务](https://sfconservancy.org/members/services/))软件自由节约`公司是501(C)(3)`在纽约注册成立的组织,在法律允许的范围内,对其进行的捐赠是完全免税的.
+Homebrew is a member of the [Software Freedom Conservancy](https://sfconservancy.org) which provides us with an ability to receive tax-deductible, Homebrew earmarked donations (and [many other services](https://sfconservancy.org/members/services/)). Software Freedom Conservancy, `Inc. is a 501(c)(3)` organization incorporated in New York, and donations made to it are fully tax-deductible to the extent permitted by law.
 
 ## 赞助商
 
-我们的XSerx EXI盒为CI托管[麦克体育场](https://www.macstadium.com).
+Our Xserve ESXi boxes for CI are hosted by [MacStadium](https://www.macstadium.com).
 
 [![Powered by MacStadium](https://cloud.githubusercontent.com/assets/125011/22776032/097557ac-eea6-11e6-8ba8-eff22dfd58f1.png)](https://www.macstadium.com)
 
-我们的詹金斯CI安装由[数字海洋](https://m.do.co/c/7e39c35d5581).
+Our Jenkins CI installation is hosted by [DigitalOcean](https://m.do.co/c/7e39c35d5581).
 
 ![DigitalOcean](https://cloud.githubusercontent.com/assets/125011/26827038/4b7b5ade-4ab3-11e7-811b-fed3ab0e934d.png)
 
-我们的物理硬件由[共产世界](https://www.commsworld.com).
+Our physical hardware is hosted by [Commsworld](https://www.commsworld.com).
 
 ![Commsworld powered by Fluency](https://user-images.githubusercontent.com/125011/30822845-1716bc2c-a222-11e7-843e-ea7c7b6a1503.png)
 
-我们的瓶子(二进制包)托管[双托盘](https://bintray.com/homebrew).
+Our bottles (binary packages) are hosted by [Bintray](https://bintray.com/homebrew).
 
 [![Downloads by Bintray](https://bintray.com/docs/images/downloads_by_bintray_96.png)](https://bintray.com/homebrew)
 
-安全密码存储和同步提供[团队密码](https://1password.com/teams/)通过[AgIle位](https://agilebits.com).
+Secure password storage and syncing provided by [1Password for Teams](https://1password.com/teams/) by [AgileBits](https://agilebits.com).
 
 [![AgileBits](https://da36klfizjv29.cloudfront.net/assets/branding/agilebits-fcca96e9b8e815c5c48c6b3e98156cb5.png)](https://agilebits.com)
 
-自制是一个成员[自由软件管理机构](https://sfconservancy.org).
+Homebrew is a member of the [Software Freedom Conservancy](https://sfconservancy.org).
 
 [![Software Freedom Conservancy](https://sfconservancy.org/img/conservancy_64x64.png)](https://sfconservancy.org)
