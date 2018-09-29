@@ -1,0 +1,724 @@
+
+# Kickstarter支持者
+
+这个文件包含了那些给了5英镑或更多英镑的令人敬畏的人的名单.[我们的Kickstarter](https://www.kickstarter.com/projects/homebrew/brew-test-bot).
+
+这个列表仍然是不完整的,因为我们需要每个接受物理奖励的人的地址.Kickstarter建议只询问我们何时准备出货(以避免更改地址),因此我们不能要求更多的名称/网址直到那时.
+
+这些惊心动魄的人通过给我们450英镑或更多的钱来支持我们的Kickstarter:
+
+[![Hashrocket](https://s3.amazonaws.com/hashrocket-misc/hr_180x50.png)](http://hashrocket.com/)
+
+这些壮观的人通过给我们400英镑或更多的钱来支持我们的Kickstarter:
+
+-   [货物介质](http://www.cargomedia.ch/)
+
+这些不可思议的人通过给我们200英镑或更多的钱来支持我们的Kickstarter:
+
+-   史蒂芬托格韦勒
+-   [Tor项目](https://www.torproject.org)
+
+这些了不起的人通过给我们100英镑或更多的钱来支持我们的Kickstarter:
+
+-   [迷你迷你跳马](http://www.macminivault.com)
+-   jpr
+-   [格雷戈西兰斯基](http://wonbyte.com)
+-   [斯坦利斯图尔特](http://fivetanley.com)
+-   [康诺麦克德罗特](http://www.mcdermottroe.com)
+-   [道格罗宾斯坦](http://spike.grobste.in)
+-   [非小说工作室公司](http://nonfiction.ca/)
+-   [德夫!有限责任公司](http://devfu.com)
+-   [人为限制](https://hmn.md/)
+-   [罗兰莫里斯](https://roland.io/)
+-   [罗布弗里伯格](http://robfreiburger.com/)
+-   [卡特·施瓦尔德](http://www.wellposed.com)
+-   [安迪派珀](http://andypiper.co.uk)
+-   [莫里亚特罗斯特勒](http://www.televolve.com)
+-   [扎克凯林](http://whatit.is)
+-   [登斯莫尔](http://scottdensmore.com)
+-   [亚当瓦尔兹](http://www.adamwalz.net)
+-   [蒂莫提霍夫](https://github.com/Krinkle)
+-   [约书亚船体](https://github.com/joshbuddy)
+-   [乍得卡特莱特](http://www.chadcatlett.com/)
+
+这些令人敬畏的人通过给我们50英镑或更多的钱来支持我们的Kickstarter:
+
+-   [奥利弗西格](http://oliver-sigge.de)
+-   [格拉汉姆](http://sean-graham.com/)
+-   [布瑞恩福特](http://briantford.com)
+-   意志定势
+-   [弗洛里安埃克斯多夫](http://florianeckerstorfer.com)
+-   [莱昂哈德梅尔泽](http://foomoo.de/)
+-   [克劳斯格罗曼](https://github.com/iKlaus)
+-   [蒙蒙](https://github.com/monmon)
+-   [敏捷地](http://nimbly.be)
+-   [西门町](https://cimnine.ch)
+-   [格雷戈·德安吉利斯](http://greg.deangel.is)
+-   [约翰卡尔奎斯特](https://www.rymdvarel.se)
+-   [Simon Lundstr·奥姆](http://soy.se)
+-   [萨米尔塔尔瓦](http://samirtalwar.com/)
+-   [吴约翰](http://www.johnwu.com)
+-   [简莱汉特](https://couchdb.apache.org)
+-   [亚当奥登](http://bimble.net/)
+-   [闭锁](http://closure.jp/)
+-   史葛S
+-   [瑞秋贝克](http://rachelbaker.me)
+-   多米尼克·波兰
+-   [会谈](http://tlks.me)
+-   [博世](http://pb.io)
+-   [亚历山德鲁巴迪乌](http://ctrlz.ro)
+-   [米莎马努里斯](http://brewbit.com)
+-   [MrBri](http://mrbri.com)
+-   [马克·范·奥尔曼](http://www.marcvanolmen.com)
+-   [斯科特·嘉德纳](http://scotteg.com)
+-   [彼得JC](http://peterjc.dk)
+-   [弥敦触摸](http://rojoroboto.com)
+-   [流畅的地球仪](http://fluentglobe.com)
+-   [德米特里阿卡托夫](http://akatov.com)
+-   [乔伊貂皮](http://joeymink.com)
+-   [精神力量](https://mentalpower.us)
+-   [世界博览会](http://www.worldofchris.com)
+-   [乔伊尔·库伊滕](http://pm5544.eu)
+-   [威廉格利菲斯](http://Cwmni.com)
+-   [保罗霍华德](https://github.com/pauldhoward)
+-   [古斯塔夫森](http://marten.gustafson.pp.se)
+-   [马库斯](http://markusheurung.de)
+-   [拉吉夫亚伦曼格兰尼](https://www.rajivmanglani.com/)
+-   扎卡里埃利奥特
+-   [贾斯汀·维斯](https://www.justinweiss.com)
+-   马特迪科夫
+-   [关键行动](http://pivotallabs.com)
+-   [威廉伍德尔](http://williamjwoodall.com)
+-   [贾永瓯](http://orly.ch)
+-   [约书亚聚醚醚酮](https://github.com/josh)
+-   [筛分器](https://sifterapp.com)
+-   [莫顿湾](http://justabeech.com)
+-   马库斯
+-   哈蒂曼
+-   [奥利格](http://51degrees.net)
+-   [本达洛](http://www.darlow.eu/)
+-   [阿列克谢·扎克勒斯汀](https://github.com/indeyets)
+-   费尔南多布莱特
+-   [亚当霍尔特](http://adamholt.co.uk)
+-   特雷弗.
+-   [约翰weiland](https://jweiland.net)
+-   保罗,凯蒂
+-   切赫欧拉
+-   肯迈耶
+-   [Jeremy D.朋友](http://www.norecess.org/)
+-   彼得quade
+-   silverio c j
+-   [Roddi](http://www.winkenschuerfel.de)
+-   Jeffrey Sullivan Jr的
+-   乔纳森borzilleri
+-   乙烷燃烧
+-   尼克mixdorf
+-   亚历克斯duryee
+-   扎克雷根
+-   [lillquist车道](http://www.lillq.com)
+-   [罗伯特Schmidl](https://github.com/RobRoy)
+-   [集体观念](http://collectiveidea.com)
+-   [freckle时间跟踪](https://letsfreckle.com/)
+-   [汉斯奥托](http://hans-christian-otto.de/)
+-   丹巷
+-   塞思Szymanski
+-   [奥什Runge](http://joshrunge.com)
+-   格伦-亨特
+-   [万南修](http://www.venanti.us)
+-   马特琼斯
+-   [珍野蛮](https://savagejen.github.io/)
+-   [特伦顿先生](http://www.norwegianrockcat.com)
+-   杰克考夫曼
+-   [Hiro](http://blog.qli.jp/)
+-   debreczeni巴拿巴
+-   [Handley史葛](http://evomics.org)
+-   [lipsig史葛](https://github.com/scottscott)
+-   尼克zadrozny
+-   迈克尔鲁斯
+-   史蒂芬eckenrode
+-   [凯文萨姆纳](http://kevinsumner.com)
+-   Rahul
+-   [没有什么互动](https://www.nothing.ch)
+-   [尼克sivo](http://nicksivo.com)
+-   [克劳斯pfisterer](http://www.apochroma.ch)
+-   鲍勃多伊尔
+-   加布里埃尔博耶
+-   汤姆
+-   劳伦斯的扬
+-   弗雷德里克ostrander
+-   [戴维瓦格纳](https://noiseandheat.com)
+-   [克雷格labenz Kahl和马特](http://www.Stik.com)
+-   艾伦grosskurth
+
+这些人supported亮我们的kickstarter by给美国£15或更多:
+
+-   [布瑞恩莱勒](https://github.com/blalor)
+-   [亚伦阿克曼](https://twitter.com/_aaronackerman_)
+-   [Rodreegez](http://rodreegez.com)
+-   [斯蒂芬diederich](https://github.com/diederich)
+-   [安得烈Nesbitt](http://nesbitt.io)
+-   [布莱恩库克](http://romeda.org/)
+-   [埃尔南德斯拉奎尔](http://raquelhernandez.net)
+-   [哈林顿博士](https://twitter.com/psi)
+-   [onori P.J.](http://www.somerandomdude.com)
+-   [埃格伯特veenstra](http://egbert.co)
+-   [布兰姆凡达姆](https://www.bram.us/)
+-   [马特迷迷](https://www.twitter.com/mattvagni)
+-   [马特加农炮](http://www.mattcannon.co.uk)
+-   [丹尼尔·胡拉多](http://demarko.org)
+-   [本杰明埃沙姆](http://www.bdesham.info)
+-   [尼克·罗杰斯](https://twitter.com/zikolas)
+-   [安倍埃斯特拉达](https://abeestrada.com)
+-   [马蒂亚斯拉森](https://www.yahoo.com/)
+-   [戴夫罗斯](http://davidmichaelross.com)
+-   [安德烈安巴登索夫](http://andrian.io/)
+-   [杰森-史密斯](https://twitter.com/waitingallday)
+-   [马丁考克斯](https://twitter.com/grabcocque)
+-   [尼克·琼斯](mailto:nick@dischord.org)
+-   [埃斯米考尔斯](https://github.com/escowles)
+-   [加勒特L病房](http://glward.net)
+-   [卡尔·莱尔德](http://allthingsoptimal.com)
+-   [马丁佐](http://matienzo.org/)
+-   [肖恩邓恩](http://www.dunns.me)
+-   [卡拉范马尔森](https://avpreserve.com)
+-   [菲特23](http://phette.net)
+-   [杰玛尔-科尔](http://jemal.co/)
+-   [布兰登维根](http://brandenwiegand.com)
+-   [亚当史普纳](http://adamjspooner.com)
+-   [伊万麦克纳尔蒂](http://www.evanm.net/)
+-   [阿卜杜拉](https://twitter.com/adwayish)
+-   [西蒙约德](https://jodet.com)
+-   [克里斯蒂安迈尔](http://sieben.me)
+-   [贾斯廷皮科特](http://justin.pecott.net)
+-   [斋藤裕](https://github.com/studiomohawk)
+-   [简](https://alpha.app.net/derjan)
+-   [beanieboi](https://abwesend.com)
+-   [dirkr](https://niebegeg.net)
+-   [ouvanous](http://ouvanous.com)
+-   [dlinsin](https://dlinsin.github.io)
+-   [亚历克斯morega](https://grep.ro/)
+-   [克里斯麦格拉思](https://twitter.com/chrismcg)
+-   [Ben](http://blog.bueti-online.ch)
+-   [gulrajani ishaan](https://ishaan.io)
+-   [古特曼地垒](https://zerokspot.com/)
+-   [freecastle](http://freiburg79.de/)
+-   [schlawack Hynek](https://hynek.me)
+-   [aiusepsi](http://aiusepsi.co.uk)
+-   [borsje斯特凡](https://yourkarma.com)
+-   [马克糖果](http://markgoody.ie/)
+-   [第一bjerkseth Terje](https://github.com/terjesb)
+-   [韦德winningham](http://www.updrift.com)
+-   [Opendream](http://www.opendream.co.th)
+-   [grooms托德](http://toddgrooms.com)
+-   基督教Savard
+-   [迈克尔诺瓦克](http://michaelnovakjr.com)
+-   [乔恩prettyman](https://www.sprighealth.com/)
+-   [红宝石日报](http://rubydaily.org)
+-   derBernd
+-   [toolbear](http://tool-man.org/)
+-   [的秘书](http://www.stevenfschreiber.com)
+-   [保罗bowsher](https://github.com/boffbowsh/)
+-   [丹尼尔lindsley](http://toastdriven.com/)
+-   [菲利佩食](http://gistia.com)
+-   [noahhendrix](https://twitter.com/noahhendrix)
+-   [凯文-戴维斯](http://theausguild.org)
+-   [Genowm](http://geknowm.com)
+-   [托德·奥森](https://www.lib.uchicago.edu/~tod/)
+-   [克里斯蒂安·布奇](https://debilux.org)
+-   [Victor ASteinhae](http://victorasteinza.com)
+-   [Hans N . Hajort](http://www.hansnilsson.net)
+-   [瑞秋·海顿](http://www.rmheaton.com)
+-   [科德卡塔利](http://codecatalyst.com/)
+-   [卢克·卡里斯](http://lukekarrys.com)
+-   [Brandon Weiss](http://brandonweiss.me)
+-   [加雷斯](http://gareth.com.au)
+-   [内特·罗伯斯](https://xmission.com/~nate)
+-   [杰伊严重](http://doubleencore.com)
+-   [John Wittkoski](https://github.com/jwittkoski)
+-   [米卡赫·伍兹](http://www.hashrocket.com)
+-   [拉斐尔·斯托尔特](https://raphaelstolt.blogspot.de)
+-   [海龙属](http://hatimeria.com)
+-   [Barron Bichon](http://blueplaid.net/)
+-   [斗牛士](https://www.torvos.ca)
+-   [亚历山大·扎特克](http://alexander-zautke.com)
+-   [山姆·凯利](http://skel.ly)
+-   [托拜厄斯·奥特韦勒](https://github.com/tomco)
+-   [拉甘·韦伯](Http://raganwebber.com)
+-   [韦斯利·摩尔](http://wezm.net/)
+-   [pangratz](http://code418.com)
+-   [(jus)](http://jus.li)
+-   [非政府组织](http://siong1987.com)
+-   [布莱恩·利尔斯](http://thunderboltlabs.com)
+-   [东尼·皮塔拉](http://tpitale.com)
+-   [瑞安·阿赫恩](http://rcahearn.net)
+-   [Iternti GMBH](http://www.iterativ.ch/)
+-   [布莱恩尼尔森](http://www.clientresourcesinc.com)
+-   [杰夫beemn](https://jeffbeeman.com)
+-   [loranger](https://github.com/loranger/)
+-   Torbjørn Vatn
+-   [贾斯汀hileman](http://justinhileman.info)
+-   [马丁tithonium](http://martian.at/)
+-   [伊凡的圣马力诺](http://ivandemarino.me)
+-   [tjernø?](http://jorgenpt.tumblr.com)
+-   [彼得苏特](https://github.com/petems)
+-   马可
+-   [史蒂夫•麦金尼](http://stephenmckinney.me)
+-   费利克斯adusei
+-   [理查德•李](http://dlackty.org/)
+-   [谢恩奥格雷迪](http://ogrady.ie)
+-   [塞巴斯蒂安Staudt](http://koraktor.de)
+-   [埃里克·布莱尔](http://room45.co/)
+-   [安德烈-贝尔](http://www.codedreality.com)
+-   [特里丘吉尔](http://www.doc-linux.co.uk)
+-   [马西米兰61哈克](http://3141.eu)
+-   [jungblut帕斯卡](https://pascalj.de)
+-   [Absolight](https://www.absolight.fr/)
+-   [本哈根](https://plus.google.com/102873090274552422645/)
+-   [史密斯](https://twitter.com/thewilbur)
+-   丁丙诺啡
+-   [epiGenesys](https://www.epigenesys.co.uk/)
+-   格雷格-克拉克
+-   [CoEPP](http://www.coepp.org.au)
+-   [foray杰罗姆](https://foray-jero.me/)
+-   [bobuk](https://twitter.com/bobuk)
+-   [hochstrasser克里斯托夫](https://christophh.net)
+-   [约翰bolila](http://Bolila.com)
+-   [markin雅罗斯拉夫](https://github.com/yaroslav)
+-   [大卫怀特](https://wizardfrag.co.uk)
+-   lindström"
+-   [aystech咨询](http://aystech.net)
+-   [他迪克](http://joshdick.net)
+-   [mirniy阿列克谢](https://www.linkedin.com/in/pharmazone)
+-   [西蒙的门](Http://smgt.me)
+-   [杰克yaganeh](https://github.com/jyaganeh)
+-   德克-牛皮纸
+-   [斯蒂芬Crain](https://github.com/stefancrain)
+-   [xorbyte](https://hackd.net)
+-   礼品
+-   [kmcphillips](http://kevinmcphillips.ca)
+-   [贾斯汀贝格](http://www.aelatis.com)
+-   [本杰明medicke](http://benmedicke.com/)
+-   [该marzook](http://www.hibri.net)
+-   [pinnix杰里米](http://pixelgrazer.com)
+-   [阿恩.](http://www.arnedebree.nl)
+-   [Oleksandr Skrypnyk](https://sxua.github.io)
+-   [otyutskiy伊利亚](https://twitter.com/thesharp)
+-   克里斯溪
+-   未知漫画
+-   Brian Miller
+-   [张毅](http://tomodachi.name)
+-   [lespinasse罗曼](https://dandelion.github.io)
+-   [achiiive.com](http://achiiive.com)
+-   [迈克尔霍金斯](http://hawkinsunlimited.com)
+-   [Tim Sutton](https://github.com/timsutton)
+-   [eilermann阿恩](https://kleinerdrei.net/)
+-   [杰罗恩西格斯](http://www.jeroenseegers.com)
+-   [丹卡尼](https://twitter.com/KarneAsada)
+-   [杰姆斯库尔博](http://www.curbo.org)
+-   [马克·诺尔曼·弗兰西斯](https://github.com/norm/)
+-   [李勃兰特](http://leebrandt.me)
+-   [丹伊沃维奇](http://danivovich.com/)
+-   [艾莉多西琼斯](http://elijones.us/)
+-   [丹尼尔赫兹](http://www.dhertz.com)
+-   [卡盘](https://github.com/gnarl)
+-   [芯片管理员](https://twitter.com/lgw4)
+-   [伊桑舍洛弗](http://ethanschoonover.com)
+-   [阮国雄](http://ctnguyen.net)
+-   [丹尼艾美](http://www.dannyamey.com/)
+-   奥斯卡
+-   [布瑞恩波拉克](http://www.protovate.com)
+-   [安得烈布罗曼](http://cccultura.com)
+-   [克里斯梅特卡夫](http://chrismetcalf.net)
+-   [香瓜](http://projectinsomnia.com)
+-   [乌苏里极](https://twitter.com/ursul_polar)
+-   达维德霍都
+-   [杰夫场](https://twitter.com/jfield)
+-   [达尔姆](https://github.com/dholm/)
+-   [蔡斯特南](http://southard.co)
+-   曾健士
+-   [约翰尼利杰克罗林斯](https://spaceghost.github.io)
+-   [若泽马塞里诺](http://metavurt.net)
+-   [亚当](https://example.com)
+-   [弗兰·ois Lamboley](http://www.frostland.fr/)
+-   [安德森先生](http://mrmikea.com)
+-   [安·约翰森](https://ialsotakephotos.com/)
+-   戴夫·科伊尔
+-   布赖恩·福斯
+-   费尔南多
+-   [丹尼·李](http://dennyglee.com)
+-   [Ernie Hersey](http://www.ernie.org)
+-   [Hao Gao](http://www.haogao.me)
+-   [蒂姆·吉尔伯特](https://timgilbert.wordpress.com/)
+-   [基思·汤普森](http://keiththomps.com)
+
+These wonderfuse people supported our kicktarter by giving US US 10 or more:
+
+-   [西蒙·拉斯科夫斯基](http://teleradiologia.com)
+-   [silsha](http://felixarndt.de)
+-   [Martin Kopischke](http://martin.kopischke.net)
+-   [约翰·凯利](http://johnkary.net)
+-   [David M . Carr](http://david.carrclan.us)
+-   [戴尔·托尔内米莱](http://www.tournemille.com)
+-   [维尔图尔沃尔夫](http://virtualwolf.org)
+-   [Levenly Handmage Handmagraphy](http://lovinglyhandmadepornography.com/)
+-   [本·汉佐](http://handzo.com)
+-   [Jean-Philippe Sirois](http://jpsirois.com)
+-   [Sindre Sorhus](https://sindresorhus.com)
+-   [尼克·鲁斯特](http://ruebot.net)
+-   [史蒂文·胡伊](https://twitter.com/stevehuey)
+-   [克雷格·伯恩斯坦](http://cwb.us/)
+-   [彼得·默里](https://dltj.org/)
+-   [安德鲁·马森](http://www.openreelsoftware.com)
+-   [多溴二苯30](http://pb30.com)
+-   [SquareDE设计](https://squaredesign.com)
+-   [亚历克斯·伯卡](http://www.alexburka.com)
+-   瓦尔什
+-   [安德鲁·布朗](http://pvalu.es)
+-   [萨姆纳.](http://www.bethanysumner.com/)
+-   [奥尔塔](http://orta.io)
+-   [michałgołębiowski - owczarek](https://github.com/mgol)
+-   [foltzer亚当.](http://www.acfoltzer.net/)
+-   [史蒂夫希姆斯特拉](https://www.speg.com)
+-   [半绝缘多晶硅(SIPOS).](http://www.softwarefuturism.com)
+-   [nebolsin)](http://fedot.com)
+-   [丹poltawski](http://blog.danpoltawski.co.uk)
+-   [komendera迪特尔](http://www.komendera.com/)
+-   [在卢卡斯韦斯特曼,点银](http://at-point.ch/)
+-   [马克米兰](http://milancermak.com)
+-   [krysmanski塞巴斯蒂安](http://manski.net)
+-   [迈克斯腾豪斯](http://mikesten.com)
+-   [阿拉斯泰尔斯图尔特](https://eurotalk.com)
+-   [大卫rekowski](http://rekowski.info)
+-   [罗兰的致命的](http://rolandleth.com)
+-   [莫里斯-凯利](http://blog.chatswood.org.uk/)
+-   [达里尔斯皮策](https://twitter.com/yacitus)
+-   [在Peleteiro](https://peleteiro.net)
+-   [赫尔特格伦.](http://www.artsoftheinsane.com)
+-   [理查德japenga](http://japenga.eu)
+-   [皮埃尔riteau](https://github.com/priteau)
+-   [内森Vander枯萎](http://exts.ch)
+-   [让-巴蒂斯特escoyez](http://www.inspirationfactory.be)
+-   [穆勒.](http://www.twam.info)
+-   [鲍里斯的Mann](http://www.bmannconsulting.com)
+-   [扎克托马斯.](https://github.com/zathomas)
+-   [安德烈yunoshev](http://yunoshev.ru)
+-   [大卫麦克法兰](http://www.dcmcfarland.com)
+-   [tanglao罗兰](http://rolandtanglao.com)
+-   [雅各伯长老](http://jacobelder.com)
+-   [拖曳表](https://towatchlist.com/)
+-   [约书亚贾布尔](https://about.me/joshuajabbour)
+-   [丹尼尔吉利贝特](http://dani.calidos.com)
+-   [埃里克·沃尔曼德](http://wallmander.net/)
+-   [蒂库滕·穆贝伦](http://teakmeubelen.nl/)
+-   [热拉尔"玷污"](http://www.govannon.nl)
+-   [马吕斯CIOCANEL](http://mariusciocanel.com)
+-   [戴维索默斯](http://davidsommers.com/)
+-   [雷格拉索](http://raygrasso.com)
+-   [提姆乌鲁斯基](http://tim.uruski.name)
+-   [罗伯特·克拉克](http://www.touchtech.co.nz)
+-   [韦斯奥尔登](http://narnach.com/)
+-   [乔恩富勒](http://erg7.com)
+-   [预测机器学习服务器](https://prediction.io)
+-   尼古拉斯维登斯坦
+-   [斯道姆马克](http://stormmq.com/)
+-   [巴里霍格德](http://www.tristanmedia.com/)
+-   [紫树](http://PurplishTree.com)
+-   [斯特凡胡贝尔](http://signalwerk.ch/)
+-   朱利安帕尔马斯
+-   [卡梅隆·斯宾塞](http://eusonic.com)
+-   [阿莱斯多约](https://github.com/alesdotio)
+-   [版本2.IO](http://version2.io)
+-   [杰瑞米克拉克](http://jeremyclarke.org)
+-   [迪米特罗夫](http://ddimitrov.name/)
+-   [黑客学校](https://www.hackerschool.com/)
+-   [富兰克林](https://frankl.in)
+-   [韦斯驻军](http://databasically.com)
+-   [布劳里奥卡里诺](http://carreno.me)
+-   [德里克克罗夫特](http://www.kiindly.com)
+-   [里特泽尔博士](http://ritezel.com)
+-   [克里斯托夫赫尔](http://christophheer.me)
+-   [库巴苏德](https://mackuba.eu)
+-   [杰森加伯](http://sixtwothree.org)
+-   [亚历杭德罗卡塞雷斯](http://punkspider.hyperiongray.com)
+-   [斯洛博丹米斯科维奇](https://miskovic.ca)
+-   [库尔特奥斯特加尔](http://KurtOstergaard.com)
+-   [简单业务](https://www.simplybusiness.co.uk/)
+-   [泰特·约翰逊](http://tatey.com)
+-   [格里枢机主教三](http://gerrycardinal.com/)
+-   [安得烈卡莱克](http://anlek.com)
+-   [布莱恩科](http://www.BryanACoe.com)
+-   360虚拟旅游
+-   [詹姆斯特恩布尔](http://www.kartar.net)
+-   [多明尼克摩根](https://d3r.com)
+-   [马里奥威特](http://www.mariowitte.com)
+-   [演播室NAND](http://www.nand.io)
+-   [每沙特罗姆](https://www.helloper.com)
+-   [Jochen Sch瀑布](http://www.joschs-robotics.de)
+-   [J·库尔- S·伯格-奥森](http://www.solberg.is)
+-   [科尔帕克斯](http://kolpax.io)
+-   [马特·戴维斯](http://penandpants.com)
+-   [斯科特·张伯伦](https://ropensci.org/)
+-   [杰胡恩](https://github.com/teslamint)
+-   [韦恩鲁滨孙](http://www.wayne-robinson.com)
+-   [基特霍兹登](https://kitt.hodsden.org/)
+-   [贾斯廷约翰逊](https://justinjohnson.org/)
+-   [戴维·克里斯多法罗](http://davidcristofaro.com/)
+-   史提夫萨尔金
+-   [克里斯托弗·约翰逊](http://undefinedvalue.com/)
+-   [库马尔麦克米伦](https://twitter.com/kumar303)
+-   [布兰农雪莉酒](http://code-junkie.com)
+-   [新创新-精益咨询](http://neo.com/)
+-   [杰夫华纳](http://www.stormysoftware.com)
+-   [杰瑞米沃克](http://www.ihid.co.uk)
+-   [迈克尔-桑德斯](http://msanders.com)
+-   [苏利法卡阿里](https://www.simplerses.com)
+-   [乔希海普沃斯](http://friendsoftheweb.com)
+-   [米迦勒·迪佩里](http://monkey-robot.com/)
+-   [乔纳森海狸](https://jon4than.com)
+-   [杰森·诺尔斯](http://jasonnourse.com)
+-   [CJ小](http://cjlittle.com)
+-   [尼古拉斯莫特](http://www.discovilante.com)
+-   [让-吕克·格林](http://www.ufirstgroup.com/)
+-   [英格坎普](https://kreuzwerker.de/)
+-   [杰森拉斯姆森](http://www.sourcefire.com)
+-   [雷尼马金德](http://renimargold.com)
+-   [雅格布](https://github.com/dedalusj)
+-   [增量生产有限公司](https://www.incremental.co.uk/)
+-   [康德罗](http://www.condero.com)
+-   [明特鲁斯](http://mintrus.com)
+-   [埃齐基尔坦普林](http://zeke.templ.in/)
+-   [马特·罗宾逊](https://www.lazycat.org/)
+-   [格雷格·考夫曼](http://gregkaufman.com)
+-   [克里斯威尔克斯](https://github.com/cwilkes)
+-   [Maven安全咨询](https://www.mavensecurity.com)
+-   [克里斯托弗范德波尔](http://www.wlvrn.com)
+-   [梁维银](http://pyology.com)
+-   [史诗般的令人敬畏](https://epicawesome.co/)
+-   [oxfeld埃文](https://twitter.com/evanoxfeld)
+-   [亚历山大睫毛](http://alexla.sh)
+-   [弗兰系列](http://www.nulltrace.com)
+-   [瑞克companje](http://www.companje.nl)
+-   [zubko亚历山大](https://www.youtube.com/watch?v=jqxENMKaeCU)
+-   [岁的比斯顿伊恩](https://iainbeeston.com/)
+-   [杰夫鲍尔](https://www.daemon.com.au)
+-   [洛根考克斯](http://lo5an.com)
+-   [Helmwind](http://helmwind.com)
+-   [tiburcio Jose Ribeiro净](http://mineiro.org)
+-   [多云的](http://www.cloudier.com)
+-   [亚当Merrifield](http://seydesign.com)
+-   [艾伦蒋](http://itsnotvalid.com)
+-   诺伯特sooth拉尔夫
+-   [卡梅伦TOD](https://camerontod.com)
+-   [保罗mclanahan](http://pmac.io)
+-   [兰斯乌尔姆](http://lanceulmer.com)
+-   [jachmann托马斯](http://thomasjachmann.com)
+-   [乔纳森-福斯特](http://fostertheweb.com)
+-   [迪奥戈Neves](http://diogoneves.com)
+-   [Arvy](http://www.codingepiphany.com)
+-   [詹姆斯pellerano](http://jamespellerano.com)
+-   [nordølum Birger J.](http://mindtooth.me)
+-   [saska鲍勃](https://r35.net)
+-   [迈克尔麦卡锡](https://github.com/mikeycmccarthy)
+-   [斯科特科特尼](https://www.sinenomine.net/)
+-   [wilburn考特尼](http://blog.cjwilburn.com)
+-   [格雷戈里.](https://github.com/gregory-m)
+-   [西恩波特](http://seanporter.com)
+-   [glacken杰罗姆](http://www.jeromeglacken.com)
+-   克里斯塞维斯
+-   [约阿西姆洛格伦](http://www.jorum.se)
+-   [肖恩价格](http://shawnprice.com/)
+-   [多米尼克-洛布雷科](http://dominick.me)
+-   [丹尼斯·沃尔夫](https://deniswolf.net)
+
+这些可爱的人通过给我们5英镑或更多的钱来支持我们的Kickstarter:
+
+-   拉斯班克米克尔森
+-   格雷戈·莱珀特
+-   彼得曼瑟
+-   埃德汉尼
+-   乔纳森哈克罗
+-   亚伦马隆
+-   吉伦林利
+-   理查德伯顿
+-   Lukas Spie
+-   艾丽西亚考辛
+-   蒂埃扎哈里亚
+-   尼古拉斯弗里德里希
+-   杰瑞米天气预报
+-   杰德米德
+-   韦恩潘
+-   芮济圣
+-   帕特里克·阿姆斯壮
+-   兰斯常春藤
+-   沃恩托马斯
+-   保罗·霍夫曼
+-   克里斯·布莱克
+-   凯文·库普
+-   安得烈科内特
+-   约翰逊霍克霍恩
+-   janosz希尔德布兰德
+-   安德鲁闪灵
+-   凯文小D.史迪威.
+-   肯特霍洛威
+-   米莎łpluciński
+-   米歇尔武术
+-   周杰伦mcgavren
+-   迈克尔鲑鱼
+-   奥利弗.
+-   最大seelemann
+-   弗兰斯范营
+-   雷夫Bladt
+-   大卫雷诺兹
+-   乌尔里希Petri
+-   贾斯汀法尔科内
+-   klinnert达米安
+-   罗布stinogle
+-   卢克-坎贝尔
+-   mazurek斯坦
+-   克里斯范它
+-   开井
+-   凯文克拉克
+-   斯文的原子吸收光谱法
+-   大卫卡普
+-   肖恩诺克斯
+-   彼得Jaros
+-   肖恩杰克曼
+-   亚历克斯koloskov
+-   理查德61埃里克森
+-   埃里克沃尔特
+-   daschek斯特凡
+-   gerhold乔尔
+-   altimari鲁本斯
+-   阿德里安-桑普森
+-   马克schabacker
+-   阿列克谢-波波夫
+-   琼wolkerstorfer
+-   罗比tingey
+-   Sittipon Simasanti
+-   卢西恩西斯卡
+-   阿尔法陈
+-   亚当duracz
+-   pojer克里斯托夫
+-   杰森井
+-   binna曼努埃尔
+-   有的Paczkowski
+-   杰米奥利弗
+-   hirotsugu细辛
+-   anasazy
+-   迈克boers
+-   布拉德赖特
+-   最大shishkin
+-   mowery基顿
+-   韦斯Hargrove
+-   乔恩奥斯汀
+-   乔伊斯坦福
+-   angoli乔凡尼
+-   fukuball林
+-   orip
+-   基督教tegnér Maughan
+-   克里斯蒂安尼克
+-   凯文·托佩尔
+-   马克罗杰森
+-   安娜格伯
+-   马修比林斯
+-   凯文露
+-   佩尔·韦斯曼
+-   提摩太皮尼耶
+-   安德列拉图达
+-   米尔科卡塞塔
+-   丹德拉比克
+-   费迪南萨利斯萨马登
+-   罗伯斯塔恩克
+-   马尔科·索克利
+-   亚力山大·塔尔莫洛夫
+-   亚当纽沃思
+-   菲利浦劳勒
+-   超级比尔
+-   亚伦建议
+-   尼古拉·J·勃兰特·延森
+-   斯文利托
+-   塞思菲茨西蒙斯
+-   杰罗恩霍扎格
+-   丹尼尔肯普肯斯
+-   基尔西
+-   伊安玛丽亚
+-   亚历克斯纳尔逊
+-   费加尔海尼
+-   KJA
+-   王子明
+-   BAL皮特
+-   劳尔洛伦佐马科斯
+-   "squee费德里克太阳"
+-   克里斯托弗gateley
+-   马克S.C.史密斯
+-   提姆奥勃良
+-   约书亚康纳
+-   卢卡斯dohmen
+-   乔vanandel
+-   加布里埃尔哈里森
+-   尼古拉斯维尔
+-   joch \_ n
+-   拉尔夫reijs nachum
+-   凯尔-米勒
+-   匿名的
+-   山姆塞拉斯
+-   菲尔(b.
+-   约翰很快
+-   迈克史密斯
+-   卡拉capps
+-   谢尔盖timoshin
+-   CON - F -使用
+-   城市布洛姆
+-   Calle Englund
+-   史蒂芬的孩子
+-   本plantinga
+-   多里安kernytsky
+-   米迦勒henretty
+-   可是,比尔
+-   公主丽莲在memoriam
+-   Shlok Datye
+-   亨利hayoz
+-   马克逾越
+-   马特VanderPol
+-   埃文希恩.
+-   söderholm克里斯蒂安
+-   夏洛克的猎人
+-   iraquitan小羊羔
+-   查理富尔顿
+-   安德鲁-肯特
+-   Andreas Nilsson.
+-   乔治"
+-   罗伯特纽曼
+-   Gossie
+-   常青藤仔
+-   cmchap
+-   Gaëtan Gueraud
+-   经理托马斯
+-   卡尔thiebolt
+-   原位
+-   shazow
+-   肯布洛克
+-   mandli凯尔.
+-   罗伯特安德森
+-   T.J.西蒙斯
+-   M Stallman
+-   "staticnull
+-   Asbjørn Ulsberg
+-   斯特.
+-   格伦61贝克(Ian
+-   潘金丁
+-   马特·怀特
+-   雨果文森特
+-   拉姆巴布雷
+-   乔希汉
+-   朴泽坤
+-   马修米兰德
+-   阿尔诺
+-   西里尔范特
+-   罗伯特帕里尼
+-   菲安奥哈根
+-   丹莫罗
+-   利亚姆琼斯
+-   通尼·费南德兹
+-   亚利桑那爱德华兹
+-   阿萨夫
