@@ -35,7 +35,7 @@
 <!-- doc-templite END generated -->
 
 - [x] readme
-- [ ] [docs](./src/readme.zh.md)
+- [x] [docs/readme](./src/readme.zh.md)
 - 用户
     - [ ]   [`brew`-man手册页(命令文档)](Manpage.zh.md)
     - [ ]   [故障排除](Troubleshooting.zh.md)
