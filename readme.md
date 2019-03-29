@@ -15,9 +15,7 @@
 [中文](./readme.md) | [english](https://github.com/Homebrew/brew) 
 
 
-> jekyll 太慢了, 我用 mdbook:`md 输出 html`
-
----
+> `jekyll` 太慢了, 我用 `mdbook`: *md 输出 html*
 
 ## 校对 🀄️
 
@@ -90,7 +88,7 @@
 
 ## 生活
 
-[help me live , live need money 💰](https://github.com/chinanf-boy/live-need-money)
+[If help, **buy** me coffee —— 营养跟不上了，给我来瓶营养快线吧! 💰](https://github.com/chinanf-boy/live-need-money)
 
 ---
 
